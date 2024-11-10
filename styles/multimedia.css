@@ -1,0 +1,11 @@
+/* Multimedia Styles */
+.multimedia-main {
+    padding-top: 80px;
+    min-height: calc(100vh - 300px);
+}
+
+.content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
